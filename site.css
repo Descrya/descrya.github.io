@@ -1,0 +1,26 @@
+body {
+    background-color: #AAA
+}
+
+.page-width-image {
+    width: 100%;
+    height: auto;
+}
+
+.sxs-image {
+    float: left;
+    margin-right: 1%;
+    margin-bottom: 0.5em;
+}
+
+.eye-logo {
+    width: 25%;
+}
+
+.name-logo {
+    width: 70%;
+}
+
+footer {
+    font-size: xx-small;
+}
